@@ -1,0 +1,14 @@
+langchain
+langchain-community
+langchain-text-splitters
+langchain-groq
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+pypdf
+python-dotenv
+pandas
+mcp<2
+fastmcp
+langchain-mcp-adapters
+langchain
